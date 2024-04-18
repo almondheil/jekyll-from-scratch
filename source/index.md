@@ -1,8 +1,12 @@
 ---
-layout: default
-title: "Happy Jekylling!"
+layout: landing
+title: landing
 ---
 
-## You're ready to go!
+## Which almond are you looking for?
 
-Start developing your Jekyll website.
+- [safe_from_emails.jpg] goofy creature
+- [actual decent phot] Competent Professional
+
+I've always felt pulled in two different directions when it comes to the design of this site,
+and this is the solution I like the most so far. 
